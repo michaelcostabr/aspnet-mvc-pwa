@@ -1,0 +1,20 @@
+{
+  "short_name": "ASP.NET MVC PWA",
+  "name": "My First ASP.NET MVC PWA",
+  "icons": [
+    {
+      "src": "imgs/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "imgs/android-launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/Home",
+  "background_color": "#222",
+  "theme_color": "#222",
+  "display": "standalone"
+}

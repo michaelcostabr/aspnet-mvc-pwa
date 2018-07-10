@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-mvc-pwa", "aspnet-mvc-pwa\aspnet-mvc-pwa.csproj", "{2DE37BE8-1CE6-408C-A669-B7187E6CE6B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE37BE8-1CE6-408C-A669-B7187E6CE6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE37BE8-1CE6-408C-A669-B7187E6CE6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE37BE8-1CE6-408C-A669-B7187E6CE6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE37BE8-1CE6-408C-A669-B7187E6CE6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCB5B6B9-A489-4116-88B6-739FE0D59CA9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://localiza.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = aspnet-mvc-pwa\\aspnet-mvc-pwa.csproj
+		SccProjectName1 = aspnet-mvc-pwa
+		SccLocalPath1 = aspnet-mvc-pwa
+	EndGlobalSection
+EndGlobal
