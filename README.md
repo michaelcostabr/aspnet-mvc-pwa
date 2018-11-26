@@ -16,3 +16,5 @@ In a nutshell, this is what a did:
 6) Added the filter to the RegisterGlobalFilters method of [./App_Start/FilterConfig.cs](./aspnet-mvc-pwa/App_Start/FilterConfig.cs) file.
 
 To test is against LightHouse, it is necessary to deploy it to an webserver intead of running throught IIS Express, otherwise it will not attend to the HTTPs requirement.
+
+Questions: Michael Costa - michaelbh@gmail.com
